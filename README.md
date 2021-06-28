@@ -4,7 +4,7 @@
 **Install Guide**
 
 *Step 1:*
-Ladet Euch das Spiel [hier](www.google.de) runter
+Ladet Euch das Spiel **[hier](www.google.de)** runter
 
 *Step 2:* 
 Entpacke das Spiel an einem von Dir gewünschten Ort
