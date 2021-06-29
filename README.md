@@ -13,5 +13,23 @@ Entpacke das Spiel an einem von Dir gewünschten Ort
 Navigiert in den Ordner "Prototyp" und Startet die Gamedesign_Prototyp.exe ( ggfs. als Administrator ) 
 
 
+**Steuerung**
+F1 - Basic Contorlls anzeigen
+WASD  - laufen
+
+1 2 3 - Verbindung auswählen ( links nach rechts) 
+
+Bei aktiver Auswahl Linke Maustaste - mit Person verbinden
+
+in 3rd Person rechtsklick halten - kamera bewegen 
+
+in 1st Person ist kein Rechtsklick benötigt um die Kamera zu bewegen
+
+V - Ansicht umschalten zwischen 3rd und 1st Person
+
+F - Verbindungen trennen
+
+R - reset zum letzten checkpoint
+
 In unserem **[GameDesign Dokument](https://github.com/Tobias-Bodmer/Shackles-of-Hell/blob/main/Gamedesign_Dokument.pdf)** findet Ihr genauere Infos über das Spiel.
 
