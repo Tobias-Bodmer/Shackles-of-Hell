@@ -10,7 +10,7 @@ Ladet Euch das Spiel **[hier](https://github.com/Tobias-Bodmer/Shackles-of-Hell/
 Entpacke das Spiel an einem von Dir gewünschten Ort
 
 *Step 3:* 
-Startet die Prototyp.exe ( ggfs. als Administrator ) 
+Navigiert in den Ordner "Prototyp" und Startet die Gamedesign_Prototyp.exe ( ggfs. als Administrator ) 
 
 
 In unserem **[GameDesign Dokument](https://github.com/Tobias-Bodmer/Shackles-of-Hell/blob/main/Gamedesign_Dokument.pdf)** findet Ihr genauere Infos über das Spiel.
