@@ -1,0 +1,117 @@
+[
+    {
+        "name": "Level_1rope",
+        "spring": [
+            10000.0,
+            0.0
+        ],
+        "damper": [
+            0.0,
+            0.0
+        ],
+        "minDistance": [
+            0.0,
+            1.0
+        ],
+        "maxDistance": [
+            14.0,
+            1.0
+        ],
+        "tolerance": [
+            0.0,
+            1.0
+        ]
+    },
+    {
+        "name": "Testlevelrope",
+        "spring": [
+            10000.0,
+            0.0
+        ],
+        "damper": [
+            0.0,
+            0.0
+        ],
+        "minDistance": [
+            0.0,
+            1.0
+        ],
+        "maxDistance": [
+            10.0,
+            1.0
+        ],
+        "tolerance": [
+            0.0,
+            1.0
+        ]
+    },
+    {
+        "name": "Testlevelrod",
+        "spring": [
+            10000.0,
+            0.0
+        ],
+        "damper": [
+            10000.0,
+            0.0
+        ],
+        "minDistance": [
+            10.0,
+            1.0
+        ],
+        "maxDistance": [
+            10.0,
+            1.0
+        ],
+        "tolerance": [
+            0.0,
+            1.0
+        ]
+    },
+    {
+        "name": "Level_Lianenrope",
+        "spring": [
+            10000.0,
+            0.0
+        ],
+        "damper": [
+            0.0,
+            0.0
+        ],
+        "minDistance": [
+            0.0,
+            1.0
+        ],
+        "maxDistance": [
+            10.0,
+            1.0
+        ],
+        "tolerance": [
+            0.0,
+            1.0
+        ]
+    },
+    {
+        "name": "Level3_Finalrod",
+        "spring": [
+            10000.0,
+            0.0
+        ],
+        "damper": [
+            10000.0,
+            0.0
+        ],
+        "minDistance": [
+            5.0,
+            1.0
+        ],
+        "maxDistance": [
+            5.0,
+            1.0
+        ],
+        "tolerance": [
+            0.0,
+            1.0
+        ]
+    }
+]
