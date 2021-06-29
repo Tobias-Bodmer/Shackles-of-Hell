@@ -15,7 +15,7 @@ Navigiert in den Ordner "Prototyp" und Startet die Gamedesign_Prototyp.exe ( ggf
 
 ________________________________________________________________________________________________________________________
 
-**Steuerung**
+**Controls**
 
 
 F1 - Steuerung anzeigen
@@ -35,6 +35,10 @@ V - Ansicht umschalten zwischen 3rd und 1st Person
 F - Verbindungen trennen
 
 R - Reset zum letzten Checkpoint
+
+___________________________________________________________________________________________________________________________________
+
+**GameDesign-Document**
 
 In unserem **[GameDesign Dokument](https://github.com/Tobias-Bodmer/Shackles-of-Hell/blob/main/Gamedesign_Dokument.pdf)** findet Ihr genauere Infos über das Spiel.
 
