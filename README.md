@@ -14,6 +14,7 @@ Navigiert in den Ordner "Prototyp" und Startet die Gamedesign_Prototyp.exe ( ggf
 
 
 **Steuerung**
+________________________________________________________________________________________________________________________
 
 F1 - Basic Contorlls anzeigen
 WASD  - laufen
@@ -24,7 +25,7 @@ Bei aktiver Auswahl Linke Maustaste - mit Person verbinden
 
 in 3rd Person rechtsklick halten - kamera bewegen 
 
-in 1st Person ist kein Rechtsklick benötigt um die Kamera zu bewegen
+in 1st Person wird kein Rechtsklick benötigt um die Kamera zu bewegen
 
 V - Ansicht umschalten zwischen 3rd und 1st Person
 
