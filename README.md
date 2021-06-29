@@ -14,6 +14,7 @@ Navigiert in den Ordner "Prototyp" und Startet die Gamedesign_Prototyp.exe ( ggf
 
 
 **Steuerung**
+
 F1 - Basic Contorlls anzeigen
 WASD  - laufen
 
