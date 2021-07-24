@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LobbyScene.unity
+    guid: 31eee667882793c43ac0249e68ba245a
+  - enabled: 1
+    path: Assets/Scenes/Daniel/Level_1.unity
+    guid: 092f92742e862d94bb2d6938d25a8a5d
+  - enabled: 1
+    path: Assets/Scenes/Lucas/Level_Lianen.unity
+    guid: 68023e47cf578c94fb3637ccbce89ef6
+  - enabled: 1
+    path: Assets/Imports/Level_Alessio/Scenes/Level3_Final.unity
+    guid: c998758a439f27c4f8ccb958b3356e51
+  - enabled: 1
+    path: Assets/Scenes/Testlevel.unity
+    guid: 84c634aaaaa5a9b47921d6b4e819f21c
+  - enabled: 0
+    path: Assets/Scenes/Alessio/LevelAlessioLVl3.unity
+    guid: bc198bf05a0d6fb44a6cdc91c0a3b442
+  - enabled: 0
+    path: Assets/Imports/Wagner_Level_01/Scenes/Level1_Scene.unity
+    guid: 064f16be378de5a44a6f167d210e9201
+  - enabled: 0
+    path: Assets/Scenes/BlaBla.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/Alessio/LevelAlessio.unity
+    guid: 89880b9495f971d409b26bcbc5afe8e1
+  - enabled: 0
+    path: Assets/Scenes/Lucas/SceneLucas.unity
+    guid: 6bfdcf49d1014f84f96e48037a1821cd
+  m_configObjects: {}

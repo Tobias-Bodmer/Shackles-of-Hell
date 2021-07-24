@@ -1,0 +1,71 @@
+[
+    {
+        "name": "blablabla",
+        "spring": [
+            53.0,
+            1.0
+        ],
+        "damper": [
+            0.0,
+            1.0
+        ],
+        "minDistance": [
+            0.0,
+            1.0
+        ],
+        "maxDistance": [
+            1.0,
+            1.0
+        ],
+        "tolerance": [
+            0.0,
+            1.0
+        ]
+    },
+    {
+        "name": "blablabla",
+        "spring": [
+            53.0,
+            1.0
+        ],
+        "damper": [
+            0.0,
+            1.0
+        ],
+        "minDistance": [
+            0.0,
+            1.0
+        ],
+        "maxDistance": [
+            1.0,
+            1.0
+        ],
+        "tolerance": [
+            0.0,
+            1.0
+        ]
+    },
+    {
+        "name": "asdasdasd",
+        "spring": [
+            0.0,
+            1.0
+        ],
+        "damper": [
+            0.7904412746429443,
+            1.0
+        ],
+        "minDistance": [
+            0.0,
+            1.0
+        ],
+        "maxDistance": [
+            1.0,
+            1.0
+        ],
+        "tolerance": [
+            0.0,
+            1.0
+        ]
+    }
+]
